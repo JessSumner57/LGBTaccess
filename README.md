@@ -1,5 +1,3 @@
-# LGBTaccess
-
 ---
 bibliography: bio.bib
 csl: harvard-cite-them-right.csl
