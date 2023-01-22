@@ -1,13 +1,4 @@
----
-bibliography: bio.bib
-csl: harvard-cite-them-right.csl
-title: Individual Reflection
-format: 
-  pdf:
-    include-in-header:
-      text: |
-        \addtokomafont{disposition}{\rmfamily}
-    #documentclass: report
+
     mainfont: "Spectral" # https://fonts.google.com/specimen/Spectral
     sansfont: "Roboto"   # https://fonts.google.com/specimen/Roboto
     monofont: "Inconsolata" # https://fonts.google.com/specimen/Inconsolata
